@@ -1,0 +1,52 @@
+{
+  "https://silpo.ua/product/..../12345": {
+    "name": "Конкретний товар",
+    "url": "https://silpo.ua/product/..../12345",
+    "checked_at": 1762444419,
+    "price": null,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": "HTTP status 403"
+  },
+  "https://silpo.ua/search?find=Ariel+Все+в+1+Екстрасила+Виведення+плям&filters=numberofunits-isFrom-19-to-21": {
+    "name": "Ariel капсули 19шт",
+    "url": "https://silpo.ua/search?find=Ariel+Все+в+1+Екстрасила+Виведення+плям&filters=numberofunits-isFrom-19-to-21",
+    "checked_at": 1762444315,
+    "price": null,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": "no-product-found-in-search"
+  },
+  "https://silpo.ua/product/kapsuly-dlia-prannia-ariel-vse-v-1-ekstrasyla-vyvedennia-pliam-984536": {
+    "name": "Ariel капсули 19шт",
+    "url": "https://silpo.ua/product/kapsuly-dlia-prannia-ariel-vse-v-1-ekstrasyla-vyvedennia-pliam-984536",
+    "checked_at": 1762777257,
+    "price": 364.0,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": null
+  },
+  "https://appleroom.ua/product/iphone-17-pro-256gb-deep-blue-e-sim/": {
+    "name": "Iphone 17 Pro 256GB Deep Blue E-SIM",
+    "url": "https://appleroom.ua/product/iphone-17-pro-256gb-deep-blue-e-sim/",
+    "checked_at": 1762777257,
+    "price": 62799.0,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": null
+  },
+  "https://appleroom.ua/product/apple-macbook-pro-16-space-black-m3-pro-18512-12cpu-18gpu-mrw13-2023/": {
+    "name": "MacBook Pro 16 Space Black M3 Pro 18512 12CPU 18GPU MRW13 2023",
+    "url": "https://appleroom.ua/product/apple-macbook-pro-16-space-black-m3-pro-18512-12cpu-18gpu-mrw13-2023/",
+    "checked_at": 1762777258,
+    "price": 95399.0,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": null
+  }
+}
