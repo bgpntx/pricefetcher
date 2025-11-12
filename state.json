@@ -32,8 +32,8 @@
   "https://appleroom.ua/product/iphone-17-pro-256gb-deep-blue-e-sim/": {
     "name": "Iphone 17 Pro 256GB Deep Blue E-SIM",
     "url": "https://appleroom.ua/product/iphone-17-pro-256gb-deep-blue-e-sim/",
-    "checked_at": 1762777257,
-    "price": 62799.0,
+    "checked_at": 1762926750,
+    "price": 62399.0,
     "notified": false,
     "notified_at": null,
     "notified_price": null,
@@ -42,8 +42,18 @@
   "https://appleroom.ua/product/apple-macbook-pro-16-space-black-m3-pro-18512-12cpu-18gpu-mrw13-2023/": {
     "name": "MacBook Pro 16 Space Black M3 Pro 18512 12CPU 18GPU MRW13 2023",
     "url": "https://appleroom.ua/product/apple-macbook-pro-16-space-black-m3-pro-18512-12cpu-18gpu-mrw13-2023/",
-    "checked_at": 1762777258,
+    "checked_at": 1762926750,
     "price": 95399.0,
+    "notified": false,
+    "notified_at": null,
+    "notified_price": null,
+    "error": null
+  },
+  "https://silpo.ua/product/dysky-dlia-prannia-persil-color-948313": {
+    "name": "Ariel капсули 26шт",
+    "url": "https://silpo.ua/product/dysky-dlia-prannia-persil-color-948313",
+    "checked_at": 1762926753,
+    "price": 399.0,
     "notified": false,
     "notified_at": null,
     "notified_price": null,
